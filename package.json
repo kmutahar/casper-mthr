@@ -2,7 +2,7 @@
     "name": "casper-mthr",
     "description": "This is the Ghost theme of my own blog site, based on TryGhost/Casper",
     "demo": "https://blog.mutahar.me",
-    "version": "3.0.12",
+    "version": "3.0.13-1",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
