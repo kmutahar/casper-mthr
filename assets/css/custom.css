@@ -1,0 +1,33 @@
+/* scroll to the top in posts
+
+line:125 <div class="send-to-top"><a id="top-button" href="#top"> &uarr; Back To Top &uarr; </a></div>
+
+*/
+
+html {
+    scroll-behavior: smooth
+}
+
+.send-to-top {
+    text-align: center;
+    font-size: 120%;
+}
+
+div.send-to-top a {
+    color: #15171A;
+    word-break: break-word;
+    box-shadow: #15171A 0 -1px 0 inset;
+    transition: all 0.2s ease-in-out;
+}
+
+div.send-to-top a:hover {
+    color: #3eb0ef;
+    text-decoration: none;
+    box-shadow: #3eb0ef 0 -1px 0 inset;
+}
+
+#top-button {
+    padding: .5em;
+    border: 1px solid;
+    border-radius: 4em
+}
