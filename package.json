@@ -46,7 +46,7 @@
     "bugs": "https://github.com/kmutahar/Casper-MTHR/issues",
     "contributors": "https://github.com/kmutahar/Casper-MTHR/graphs/contributors",
     "devDependencies": {
-        "@tryghost/release-utils": "0.6.17",
+        "@tryghost/release-utils": "0.7.0",
         "autoprefixer": "10.3.6",
         "beeper": "3.0.0",
         "cssnano": "5.0.8",
