@@ -47,7 +47,7 @@
     "contributors": "https://github.com/kmutahar/Casper-MTHR/graphs/contributors",
     "devDependencies": {
         "@tryghost/release-utils": "0.7.0",
-        "autoprefixer": "10.3.6",
+        "autoprefixer": "10.3.7",
         "beeper": "3.0.0",
         "cssnano": "5.0.8",
         "gscan": "4.3.1",
@@ -58,7 +58,7 @@
         "gulp-uglify": "3.0.2",
         "gulp-zip": "5.1.0",
         "inquirer": "8.1.5",
-        "postcss": "8.3.8",
+        "postcss": "8.3.9",
         "postcss-color-mod-function": "3.0.3",
         "postcss-easy-import": "3.0.0",
         "pump": "3.0.0"
