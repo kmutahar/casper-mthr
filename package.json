@@ -47,7 +47,7 @@
     "contributors": "https://github.com/kmutahar/Casper-MTHR/graphs/contributors",
     "devDependencies": {
         "@tryghost/release-utils": "0.8.1",
-        "autoprefixer": "10.4.17",
+        "autoprefixer": "10.4.18",
         "beeper": "3.0.0",
         "cssnano": "6.0.5",
         "gscan": "4.42.0",
