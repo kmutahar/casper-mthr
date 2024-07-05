@@ -3214,10 +3214,10 @@ ini@^2.0.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-2.0.0.tgz#e5fd556ecdd5726be978fa1001862eacb0a94bc5"
   integrity sha512-7PnF4oN3CvZF23ADhA5wRaYEQpJ8qygSkbtTXWBeXWXmEVRXK+1ITciHWwHhsjv1TmW0MgacIv6hEi5pX5NQdA==
 
-inquirer@9.3.2:
-  version "9.3.2"
-  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-9.3.2.tgz#9bc5ced19f572e848044baa05094a498f1e448c6"
-  integrity sha512-+ynEbhWKhyomnaX0n2aLIMSkgSlGB5RrWbNXnEqj6mdaIydu6y40MdBjL38SAB0JcdmOaIaMua1azdjLEr3sdw==
+inquirer@9.3.4:
+  version "9.3.4"
+  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-9.3.4.tgz#cebd4d3735e81f4283c557c413cf19208c9bf99f"
+  integrity sha512-Hp6meNSDzp+Oc9JNUUlYsK81dxaPrrBRa7H/s3+yebCDRJe4UNKYSkEUZoIcuKJjNipBLPKsuc7BvO6tLzo/KA==
   dependencies:
     "@inquirer/figures" "^1.0.3"
     ansi-escapes "^4.3.2"
@@ -3230,7 +3230,7 @@ inquirer@9.3.2:
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
     wrap-ansi "^6.2.0"
-    yoctocolors-cjs "^2.1.1"
+    yoctocolors-cjs "^2.1.2"
 
 interpret@^3.1.1:
   version "3.1.1"
@@ -5451,10 +5451,10 @@ yazl@^2.5.1:
   dependencies:
     buffer-crc32 "~0.2.3"
 
-yoctocolors-cjs@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/yoctocolors-cjs/-/yoctocolors-cjs-2.1.1.tgz#1a096cffaeda2eb725e33b19735681875465c920"
-  integrity sha512-c6T13b6qYcJZvck7QbEFXrFX/Mu2KOjvAGiKHmYMUg96jxNpfP6i+psGW72BOPxOIDUJrORG+Kyu7quMX9CQBQ==
+yoctocolors-cjs@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/yoctocolors-cjs/-/yoctocolors-cjs-2.1.2.tgz#f4b905a840a37506813a7acaa28febe97767a242"
+  integrity sha512-cYVsTjKl8b+FrnidjibDWskAv7UKOfcwaVZdp/it9n1s9fU3IkgDbhdIRKCW4JDsAlECJY0ytoVPT3sK6kideA==
 
 yoctodelay@^1.2.0:
   version "1.2.0"
